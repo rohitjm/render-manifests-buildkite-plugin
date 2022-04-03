@@ -1,0 +1,7 @@
+name: Render Manifests
+description: Update gitops repo manifests with new build tag
+author: https://github.com/rohitjm
+requirements: []
+configuration:
+  properties: {}
+  additionalProperties: false
